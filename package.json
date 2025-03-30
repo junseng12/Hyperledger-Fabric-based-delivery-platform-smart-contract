@@ -1,0 +1,9 @@
+{
+  "description": "",
+  "dependencies": {
+    "fabric-contract-api": "^2.5.8"
+  },
+  "devDependencies": {
+    "sinon": "^20.0.0"
+  }
+}
