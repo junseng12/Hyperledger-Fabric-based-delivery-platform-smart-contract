@@ -77,8 +77,8 @@ node integration-test-order.js
 { ... }
 ```
 
-# 5. 필요 시 **.env** 또는 **fabric-config**는 *테스트 목적상 필요 없음*
-👉 Fabric 네트워크 없이 로컬 테스트 컨텍스트(**mockCtx.js**)로 실행됩니다.
+# 5. 필요 시 `.env` 또는 `fabric-config`는 **테스트 목적상 필요 없음**
+👉 Fabric 네트워크 없이 로컬 테스트 컨텍스트(`mockCtx.js`)로 실행됩니다.
 
 ---
 
